@@ -6,7 +6,6 @@ I am Sagar.
 
 Currently Learning:
 - Python
-- Linux
 - GitHub
 
 Goal:
